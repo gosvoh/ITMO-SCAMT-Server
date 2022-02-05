@@ -1,0 +1,1 @@
+You have to rename .py file to run.py if you want to use it with [ITMO-SCAMT](https://github.com/gosvoh/ITMO-SCAMT)  project and put it to Miniconda3/Scripts directory
